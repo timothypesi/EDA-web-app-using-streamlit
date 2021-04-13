@@ -1,10 +1,6 @@
 # eda-app
 
-
-
 Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/eda-app/main/app.py)
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
@@ -23,7 +19,7 @@ conda activate eda
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/eda-app/main/requirements.txt
+wget https://github.com/timothypesi/EDA-Using-streamlit/blob/main/requirements.txt
 
 ```
 
@@ -34,7 +30,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/dataprofessor/eda-app/archive/main.zip
+Download and unzip contents from https://github.com/timothypesi/EDA-Using-streamlit/archive/refs/heads/main.zip
 
 ###  Launch the app
 
